@@ -21,21 +21,21 @@ The **News App** is a React application that allows users to view news articles 
     Clone the repository:
 
 
-   git clone https://github.com/your-username/news-app.git
+   `git clone https://github.com/your-username/news-app.git`
 
-    Navigate to the project directory:
+    ###Navigate to the project directory:
 
     cd news-app
 
-    Install the dependencies:
+    ###Install the dependencies:
 
     npm install
 
-    Start the development server:
+    ###Start the development server:
 
     npm start
 
-    Open your web browser and visit http://localhost:3000 to view the News App.
+    ###Open your web browser and visit http://localhost:3000 to view the News App.
 
 ## Usage
 
